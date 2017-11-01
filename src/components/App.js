@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
 
 // --------Import other components here---------
-import SearchBar from '../containers/searchbar';
 require('../../style/style.css');
 // ---------------------------------------------
 
@@ -11,7 +10,7 @@ export default class App extends Component {
         // Insert JSX to be rendered to localhost here
         return (
         <div>
-            <SearchBar />
+            <h1>Hello World!</h1>
         </div>
         );
     }

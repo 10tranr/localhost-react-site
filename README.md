@@ -6,5 +6,15 @@ Pre-requisites
 
 Installation
 ```
-npm install
+$npm install
+```
+
+Execute
+```
+$npm start
+```
+
+Browser
+```
+https://localhost:9000
 ```
