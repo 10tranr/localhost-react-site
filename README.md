@@ -18,3 +18,5 @@ Browser
 ```
 https://localhost:9000
 ```
+
+do all coding in `src/components/App.js`
